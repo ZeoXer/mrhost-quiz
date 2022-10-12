@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mrhost-quiz/static/js/main.9fa5441f.js",
+    "index.html": "/mrhost-quiz/index.html",
+    "main.9fa5441f.js.map": "/mrhost-quiz/static/js/main.9fa5441f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9fa5441f.js"
+  ]
+}
